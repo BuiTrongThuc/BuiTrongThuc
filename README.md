@@ -19,13 +19,14 @@ Hi! I'm Thuc 👋
 ---
 
 ## 📊 GitHub Stats
-![Thuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuiTrongThuc&show_icons=true&theme=radical)  
+![Thuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuiTrongThuc&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTrongThuc&layout=compact&theme=radical)  
 
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: yourmail@gmail.com  
+- 📧 Email: buitrongthuc.contact@gmail.com  
 - 💼 Facebook: [Bùi Trọng Thức]((https://www.facebook.com/bui.trong.thuc.732856))  
 
 ✨ *Code. Build. Learn. Repeat.* ✨
