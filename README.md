@@ -27,6 +27,6 @@ Hi! I'm Thuc 👋
 
 ## 🌐 Connect with Me
 - 📧 Email: buitrongthuc.contact@gmail.com  
-- 💼 Facebook: [Bùi Trọng Thức]((https://www.facebook.com/bui.trong.thuc.732856))  
+- 💼 Facebook: [Bùi Trọng Thức][(https://www.facebook.com/bui.trong.thuc.732856)]  
 
 ✨ *Code. Build. Learn. Repeat.* ✨
